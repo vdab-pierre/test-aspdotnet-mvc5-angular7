@@ -6,12 +6,11 @@ using System.Web.Mvc;
 
 namespace woordjesTestWebApiApp.Controllers
 {
-    public class HomeController : Controller
+    public class DefaultController : Controller
     {
+        // GET: Default
         public ActionResult Index()
         {
-            ViewBag.Title = "My Home Page";
-
             return View();
         }
     }
