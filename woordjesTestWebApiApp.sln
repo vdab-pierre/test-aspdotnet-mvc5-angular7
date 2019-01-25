@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "woordjesTestWebApiApp", "wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-Woordjes", "MVC-Woordjes\MVC-Woordjes.csproj", "{0AA5FA9D-99D8-4127-BE25-1116A71AEA1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "candor-sample-ng-cli", "candor-sample-ng-cli\candor-sample-ng-cli.csproj", "{78876E5F-6A6A-4C61-9B5D-A4C77F1EF638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0AA5FA9D-99D8-4127-BE25-1116A71AEA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA5FA9D-99D8-4127-BE25-1116A71AEA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA5FA9D-99D8-4127-BE25-1116A71AEA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78876E5F-6A6A-4C61-9B5D-A4C77F1EF638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78876E5F-6A6A-4C61-9B5D-A4C77F1EF638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78876E5F-6A6A-4C61-9B5D-A4C77F1EF638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78876E5F-6A6A-4C61-9B5D-A4C77F1EF638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
