@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'candor-sample-ng-cli';
+  title = 'brol-sample-ng-cli';
 }
